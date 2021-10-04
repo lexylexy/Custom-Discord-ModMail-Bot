@@ -20,7 +20,7 @@ client.on("ready", () => {
     console.log("I am ready to receive and Send Mails :D")
 
 
-    client.user.setActivity("DM To Contact Staff!")
+    client.user.setActivity("DM Me To Contact Staff!")
 })
 
 client.on("channelDelete", (channel) => {
